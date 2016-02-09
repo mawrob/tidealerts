@@ -65,7 +65,7 @@ IPAddress myIP; // IP address to store local IP
 IPAddress serverIP(184, 106, 153, 149);
 // Or define the domain of the server and use DNS to look up
 // the IP for you:
-const char server[] = "thingspeak.com";
+const char server[] = "api.thingspeak.com";
 
 /*
   *****************************************************************************************
